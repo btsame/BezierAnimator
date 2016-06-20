@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/rv_gif_edit_root"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#7e000000">
+
+
+    <ImageView
+        android:id="@+id/iv_func_1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:src="@drawable/gif_edit_color1" />
+
+    <ImageView
+        android:id="@+id/iv_func_2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:src="@drawable/gif_edit_color2" />
+
+    <ImageView
+        android:id="@+id/iv_func_3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:src="@drawable/gif_edit_color3" />
+
+    <ImageView
+        android:id="@+id/iv_func_4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:src="@drawable/gif_edit_color4" />
+
+    <ImageView
+        android:id="@+id/iv_func_5"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:src="@drawable/gif_edit_color5" />
+
+    <ImageView
+        android:id="@+id/iv_func_6"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:src="@drawable/gif_edit_color6" />
+
+    <ImageView
+        android:id="@+id/iv_func_7"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:src="@drawable/gif_edit_color7" />
+
+    <ImageView
+        android:id="@+id/iv_func_8"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:src="@drawable/gif_edit_color8" />
+
+    <ImageView
+        android:id="@+id/iv_multi_func_icon"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:src="@drawable/gif_edit_enter" />
+
+
+</RelativeLayout>
